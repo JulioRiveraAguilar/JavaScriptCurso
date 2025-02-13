@@ -1,0 +1,10 @@
+Primitivos Es una información que no es un objeto y son inmutables.
+
+Boolean- true/false :: verdadero y falso
+Null - sin valor absoluto
+unfifined - una variable declarada que aun no se le asigna valor
+number- integers, floats, etc.
+String- una cadena de caracteres, ej: Palabras, nombre de personas
+Symbol - Es un valor único que no es igual a ningún otro valor 
+
+21.4:05
