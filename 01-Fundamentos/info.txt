@@ -12,3 +12,5 @@ Palabras reservadas: son palabras que tienen un uso especifico
 Arreglos: son un objeto muy parecido a una lista de informacion, que conitnen un grupo de elementos
 usualmente, esa informacion dentro del arreglo es del mismo tipo de dato
 [] cuando se usan estas corchetes en java es que se trata de arrgelos 
+
+Funciones sirve para centralizar la logica de un procedimiento que se pueda ejecutar varias veces

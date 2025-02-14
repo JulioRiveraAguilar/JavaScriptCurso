@@ -14,9 +14,12 @@ let arregloCosas = [
     function(){},
     ()=>{},
     {a:1},
-    ['x', 'Megaman','zero', 'DR.Light']
+    ['x', 'Megaman','zero', 'DR.Light',[
+        'DR.willy',
+        'Woodman'
+    ]]
 ];
 
 //console.log({arregloCosas});
 //console.log(arregloCosas[2]);
-console.log(arregloCosas[7][3]);
+console.log(arregloCosas[7][3][1]);
