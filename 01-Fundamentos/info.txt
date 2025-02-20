@@ -14,3 +14,8 @@ usualmente, esa informacion dentro del arreglo es del mismo tipo de dato
 [] cuando se usan estas corchetes en java es que se trata de arrgelos 
 
 Funciones sirve para centralizar la logica de un procedimiento que se pueda ejecutar varias veces
+
+Estructura de control
+
+Nos permite alterar la forma de ejecutar el codigo a java scrip mas o menos como en las funciones 
+

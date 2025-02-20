@@ -34,7 +34,7 @@ function sumar(a,b){
 /*const sumar2= (a,b) => {
     return a+b;
 }*/
-const sumar2= (a,b) => a+b;
+//const sumar2= (a,b) => a+b;
 
 function getAleatorio(){
     return Math.random();
@@ -42,4 +42,5 @@ function getAleatorio(){
 // En un funcion de flecha, que no tenga llaves {}
 const getAleatorio2= () => Math.random();
 
-console.log(getAleatorio2());
+//console.log(getAleatorio2());
+console.log(sumar(2,3));
