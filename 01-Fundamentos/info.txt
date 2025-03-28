@@ -19,3 +19,6 @@ Estructura de control
 
 Nos permite alterar la forma de ejecutar el codigo a java scrip mas o menos como en las funciones 
 
+cd C:\Users\julio\OneDrive\Documents\GitHub\JavaScriptCurso\03-vite-app
+npm run dev 
+
